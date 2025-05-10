@@ -122,4 +122,16 @@
   </footer>
 </body>
 </html>
+<head>
+  ...
+  <style>
+    body {
+      background-image: url('images/elegant-background.png'); /* หรือเปลี่ยนเป็นชื่อไฟล์ของคุณ */
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+    }
+  </style>
+</head>
 
